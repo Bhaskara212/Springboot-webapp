@@ -1,6 +1,12 @@
-Project:- Completed Devops CI-CD 
+Project:- Completed Devops CI-CD
+--------------------------------
+
+
 -> create 2 ec2 instance one is for master-Node and another one is for Worker-Node (creating K8s cluster)
--> Then Follow the below steps
+----------------------------------------------------------------------------------------------------------
+
+-> Then Follow the below step
+-----------------------------
 
 
 creating K8s cluster:-
