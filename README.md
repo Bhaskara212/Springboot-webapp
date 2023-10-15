@@ -7,12 +7,6 @@ Project:- Completed Devops CI-CD
 
 -> Then Follow the below step
 -----------------------------
-
-
-creating K8s cluster:-
----------------------
-# K8
-
 # Step1:
 
 Master and slave 
