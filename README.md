@@ -1,4 +1,4 @@
-Project:- Completed Devops CI-CD
+Project:- Complete Devops CI-CD
 --------------------------------
 
 
